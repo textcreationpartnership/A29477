@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the present state of Tangier and of the advantages which his Excellence the Earle of Tiveot has obteyned against Gayland. Published with privilege.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29477</idno>
+            <idno type="STC">Wing B4629A</idno>
+            <idno type="STC">ESTC R216296</idno>
+            <idno type="EEBO-CITATION">99828031</idno>
+            <idno type="PROQUEST">99828031</idno>
+            <idno type="VID">32458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32458)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1944:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the present state of Tangier and of the advantages which his Excellence the Earle of Tiveot has obteyned against Gayland. Published with privilege.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Mabb on St. Pauls Wharff,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Teviot, Andrew Rutherford, --  Earl of, d. 1664 --  Early works to 1800.</term>
+               <term>Tangier (Morocco) --  Description and travel --  Early works to 1800.</term>
+               <term>Tangier (Morocco) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32458:1" rendition="simple:additions"/>
+            <p>A Brief RELATION OF THE Preſent State OF TANGIER, And of the Advantages which his Excellence the EARLE of TIVEOT Has Obteyned againſt <hi>GAYLAND.</hi>
+            </p>
+            <p>Publiſhed with Privilege.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Mabb</hi> on St. <hi>Pauls Wharff.</hi> 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32458:2"/>
+            <pb facs="tcp:32458:2" rendition="simple:additions"/>
+            <head>A Brief Relation of the Preſent State of <hi>Tangier,</hi> &amp;c.</head>
+            <p>HIS <hi>Excellence,</hi> the Earle of <hi>Tiveot</hi> Arrived here ſafe upon <hi>Jun.</hi> the <hi>14th.</hi> (being <hi>eight</hi> dayes before the expiration of the <hi>Truce</hi> with <hi>Gayland</hi>) where he found that the <hi>Deputy Governour</hi> had obtained a continuance of the <hi>Truce</hi> for <hi>Two Moneths</hi> longer, according to the <hi>Te<g ref="char:EOLhyphen"/>nour</hi> of the former <hi>Articles;</hi> which <hi>Gayland</hi> aſſured him was done in Civility and Reſpect to his <hi>Excel<g ref="char:EOLhyphen"/>lence:</hi> for which his <hi>Excellence</hi> ſent <hi>Gayland</hi> Thanks, Notifying withall, that it was not in his Power to continue the <hi>Truce,</hi> unleſſe permitted to Fortifie the Town: having expreſſed Orders from the King his <hi>Maſter</hi> for ſo doing: But however, that in Honour to Colonel <hi>Fitz Gerrards Treatie,</hi> and to ſhew his Thankfulneſſe to <hi>Gayland,</hi> he was Con<g ref="char:EOLhyphen"/>tent to ſtick to every point of the <hi>Truce</hi> which was for <hi>Gaylands</hi> Advantage; And yet upon the mayn he was enforced to break immediately. Whereupon <hi>Gayland</hi> aſked Fifteen Dayes to Conſult with his <hi>Grandees,</hi> allowing that in the mean time his <hi>Excel<g ref="char:EOLhyphen"/>lence</hi> might <hi>Fortifie</hi> the Places <hi>next the Town,</hi> which was done accordingly. The prefixed time being Expired, <hi>Gayland</hi> ſent the <hi>Sheck</hi> of <hi>Anger as</hi> Son, to have a Conference with his <hi>Excellence,</hi> wherein he made appear that the <hi>Mahometan Law,</hi> prohibited them to ſuffer the <hi>Chriſtians</hi> to build any <hi>Fortifica<g ref="char:EOLhyphen"/>tions</hi> in <hi>Affrica:</hi> But that they were contented to
+<pb facs="tcp:32458:3"/>make a <hi>War,</hi> and to give good <hi>Quarter;</hi> whereupon his <hi>Excellence</hi> Replyed, that <hi>The Sword ſhould decyde, whether the</hi> Mahometan Law, <hi>or his</hi> Maſters Orders <hi>were of Greater Force.</hi> That he would neither take, <hi>nor</hi> give Quarter; withall, that <hi>he was</hi> Gaylands <hi>Humble Servant,</hi> deſiring them to ſend immediately, for the <hi>Powder</hi> that was Stipulated for by the <hi>Deputy Governour.</hi>
+            </p>
+            <p>Next day, was the Foundation laid of a <hi>Horn-work Strong</hi> in the <hi>Walls;</hi> being <hi>Canon-proof;</hi> ſtrong in the <hi>Situation,</hi> being on the <hi>Caſtle-Hill,</hi> every way Advantageous, and Important, becauſe it covereth the <hi>Caſtle,</hi> Fenceth above 600. <hi>Akers</hi> of Ground; diſcovereth the Enemie at a great diſtance; and maketh the place Comfortable: Securing the whole Hill for our <hi>Walke,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> (being, 600. yards from the <hi>Caſtle</hi>) Our other <hi>Lines</hi> and <hi>Trenches</hi> were in a few dayes brought to that Perfection, that the Ene<g ref="char:EOLhyphen"/>mie durſt not Attaque us. The great Advantage hereof we have Experienced in ſeverall Diſputes with the <hi>Moores,</hi> who on the laſt of <hi>Feb.</hi> betwixt 11. and 12. appeared with their whole <hi>Army,</hi> and took up their <hi>Poſts;</hi> The greateſt Forces coming up<g ref="char:EOLhyphen"/>on the <hi>Weſt part,</hi> towards the <hi>Sea;</hi> where they con<g ref="char:EOLhyphen"/>tinued Pelting for ſome hours till they were forced off, with conſiderable loſſe, and not one of our Men <hi>Killed,</hi> or <hi>Wounded.</hi>
+            </p>
+            <p>The very next day following, and about the ſame hour, they came on again, but with greater Num<g ref="char:EOLhyphen"/>ber, and Courage; and took up their <hi>Posts</hi> as be<g ref="char:EOLhyphen"/>fore; preſſing towards the <hi>New Fort,</hi> which was then a <hi>Half-Bastion:</hi> (built while <hi>Gayland</hi> and his Armie,
+<pb facs="tcp:32458:3"/>Conſiſting of about, 8000. Men, look't on) and for a long time continued Shooting, yet killed us but <hi>One</hi> Man. Their <hi>Maine Body</hi> ſtood upon a Hill, hard by us; whence they continually ſent <hi>Reliefe:</hi> But at laſt, His <hi>Excellence,</hi> taking a fitt opportunity, Or<g ref="char:EOLhyphen"/>dred a Party of Horſe, (Commanded by Captain <hi>Witham,</hi>) to Sally out, and bring in their <hi>Red Stan<g ref="char:EOLhyphen"/>dard,</hi> which was Pitched neer our Works: This ſucceeded according to Wiſh, for the <hi>Horſe</hi> brought off the <hi>Standard, Killed</hi> the <hi>Bearer,</hi> with many more, and put the Reſt to <hi>Flight,</hi> without Suffering any Damage at all. Inſtantly, His <hi>Excellence</hi> Comman<g ref="char:EOLhyphen"/>ded the <hi>Standard</hi> to be <hi>Diſplayed,</hi> upon that part of the <hi>Fort</hi> that was <hi>Built:</hi> which being ſeen by the E<g ref="char:EOLhyphen"/>nemie, they drew off in trouble, concluding the loſſe of their <hi>Standard</hi> to be <hi>Ominous,</hi> the like not having been done before. Since this happened, they have not appeared in ſuch great Bodyes as formerly, coming now only in Looſe Parties, and Working by <hi>Ambuſcades;</hi> wherof the moſt conſidrable, were thoſe of the 13th. and 17th. of <hi>March,</hi> the former was ve<g ref="char:EOLhyphen"/>ry ſtrong, conſiſting of choyce Men, and the <hi>Chief Leaders;</hi> which on the ſuddain Encountered our Hourſe, and great Courage was Expreſſed on both ſides. We loſt <hi>One</hi> man, and <hi>Two</hi> wounded; but very many of the <hi>Moores</hi> were Killed and Wounded, and the reſt compelled to Retreat. The <hi>Second,</hi> (<hi>March,</hi> 27th.) (being <hi>Sunday morning</hi>) was a ſtrong <hi>Ambuſh,</hi> both of <hi>Horſe and Foot,</hi> Planted near Us; But after a Short, and Hott Diſpute, the <hi>Moores</hi> ran; <hi>Our Horſe</hi> fell in among Them, and Slew ſeveral, and had done a farr greater Execution, but for the
+<pb facs="tcp:32458:4"/>Rocks and diſadvantages of the Ground. Here we had onely <hi>One</hi> Man ſhot through the Hand, while many of the Enemie were <hi>Killed: Two</hi> of their dead, His <hi>Excellence</hi> Commanded to be brought off by our men, whereof one by ſeveral things found about him, appeared to be a Perſon of Quality. That which makes this Action more Remarkable, was the Signal <hi>Humanity</hi> which his <hi>Excellence</hi> expreſt towards the <hi>Dead Bodies;</hi> for after <hi>Divine Service</hi> Celebrated, (it being <hi>Sunday</hi>) and <hi>Sermon</hi> ended in the <hi>Camp;</hi> His <hi>Excellence</hi> Commanded them to be waſhed, while himſelf ſtood by; and <hi>Two Bieres</hi> to be made, and the Dead to be Shrowded in white Linnen, and laid there<g ref="char:EOLhyphen"/>on, and ſtrewed with Flowers with all prudentiall decency: appointing afterward a <hi>White Flagg</hi> to be carried before the Bodies, after which, Marcht his <hi>Excellence</hi> on <hi>Horſe-back,</hi> all the Troops attending in <hi>Squadrons,</hi> with Excellent Order and Modeſty; and thus they paſſed to the utmoſt of the Bounds aſſigned us in time of Peace; where the <hi>Moores</hi> met the <hi>Bodies</hi> with a <hi>White Flagg,</hi> and received them with great Expreſſions of Satisfaction; taking off their <hi>Caps</hi> and <hi>Shaſhes</hi> from their Heads, (a Cere<g ref="char:EOLhyphen"/>mony not uſed in their Adorations,) in token of their Reſpect and Gratitude to his <hi>Excellence;</hi> much amazed at this unexpected Civility; (which up<g ref="char:EOLhyphen"/>braided their former Barbarous behaviour towards thoſe of ours, which have at any time fallen into their hands.) This was done with ſatisfaction to both ſides, and without the leaſt appearance of En<g ref="char:EOLhyphen"/>mity, or ill will: and further to confirm their opini<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:32458:4"/>of his <hi>Excellencies Honour</hi> and <hi>Goodneſſe.</hi> This <hi>Truce</hi> was continued till they ſought and carried off their Dead Men.</p>
+            <p>Frequent Alarmes we have had; notwithſtanding which, his <hi>Excellence</hi> has not at all omitted to pro<g ref="char:EOLhyphen"/>ſecute the Fortifications; and it is a great Comfort to ſee how Chearfully, from the Higheſt to the Low<g ref="char:EOLhyphen"/>eſt, every man here puts his hands to the Work, in gathering, and bearing Stones, and aſſiſting in all ſorts of Labour, and Hazzard, toward the perfecting thereof; out of a Generous and Loyal Emulation, to Imitate his <hi>Excellence;</hi> who <hi>Works, Eates,</hi> and <hi>Lodges</hi> in the <hi>Field,</hi> and has ſcarce been in Bed ſince the Expiration of the <hi>Truce.</hi> It is not to be Ex<g ref="char:EOLhyphen"/>preſſed with what Zeal, and Alacrity every man here does his Duty, under ſo Exemplary a Gover<g ref="char:EOLhyphen"/>nour.</p>
+            <p>Neither are the <hi>Moores</hi> themſelves leſſe Moved, with the Frank and open Candour of his Behaviour, then they are Amazed at the Irreſiſtible Courſe of his Succeſſe: To ſee him carry on his <hi>Fortifications</hi> and beat them too, at the ſame time; making it, but the one half of his Buſineſſe to over-throw them; Even when <hi>Gayland</hi> was with his whole Army in the Field, to take away their <hi>Standard</hi> from before their Eyes! To Kill many of their Valianteſt Lea<g ref="char:EOLhyphen"/>ders, and Rout them upon all Encounters; and laſt of all, to Conquer them by <hi>Humanity,</hi> as well as by <hi>Force.</hi> Briefly, the Miracles, which his Lordſhip has done, have given theſe <hi>Barbarians</hi> a ſtrange Su<g ref="char:EOLhyphen"/>perſtition concerning him; Some ſuppoſing him to Act by the <hi>Devil;</hi> or however perſwading them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="8" facs="tcp:32458:5"/>that aſſuredly he is more then <hi>Man:</hi> Others have taken up a report, that he has made <hi>Flying Ships,</hi> and Great Guns to <hi>run alone,</hi> that he never ſleeps but leaning againſt ſome part of the Works; and that having ſcaped ſo many Dangers, and for his whole Life been ſo Fortunate in Armes, it is in vaine to Reſiſt, and Impoſſible to Worſt him: And one thing more there is, that keeps them at a Diſtance, which is, their opinion, that the <hi>Approaches</hi> to this Place are all <hi>Mined,</hi> and that they cannot any where make an <hi>Attaque,</hi> without danger of being <hi>Blown up.</hi>
+            </p>
+            <div type="postscript">
+               <head>Poſt-Script.</head>
+               <p>I have juſt now Received News of a Piece of <hi>Mooriſh</hi> Valour, which ſayes, that an Am<g ref="char:EOLhyphen"/>buſcade of ſome Hundreds of brave Horſe, be<g ref="char:EOLhyphen"/>ing Lodged to watch for ſome of our Scouts; miſſing of their Ayme, fell upon a Couple of our Dogs, as they were ranging their wonted Rounds, cut them off, and ſo Retreated to their Body.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
